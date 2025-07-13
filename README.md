@@ -34,15 +34,7 @@ I love turning complex problems into simple, elegant solutions. I’ve helped sc
 
 ### 🚀 Projects & Contributions
 
-_(Coming soon...)_
-
----
-
-### 📫 Let's Connect
-
 - Portfolio: [portfolio.functor.world](https://portfolio.functor.world)
-- LinkedIn: [linkedin.com/in/luan-tran-35a34b220](https://www.linkedin.com/in/luan-tran-35a34b220/)
-- Email: [functor.dev@gmail.com](mailto:functor.dev@gmail.com)
 
 ---
 
