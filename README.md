@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Luan Tran 👋</h1>
 
-<!--
-**functor-dev/functor-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Full-Stack Web Developer • React/Node Expert • DevOps Enthusiast • Problem Solver
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I'm a senior full-stack web developer with **8+ years of experience**, currently based in 🇻🇳 Viet Nam. I specialize in building scalable, high-performance applications using:
+
+- ⚛️ **Frontend**: React.js, Next.js, TypeScript, React Router v7 (Remix), TailwindCSS, React Query, Redux, MUI, ShadCN, Ant Design, Mantine  
+- 🛠️ **Backend**: Node.js, Express, tRPC, Zod  
+- 🗄️ **Database**: PostgreSQL, MySQL, MongoDB, Firebase, Redis
+- ⚙️ **DevOps & Infra**: Docker, Kubernetes (kops), AWS (EC2, S3, CloudFront, ASG, ELB,...), Vercel, Heroku, Jenkins, GitLab
+- 📦 **Others**: Stripe, Xero, Socket.IO, i18n, Ramda
+
+I love turning complex problems into simple, elegant solutions. I’ve helped scale startups from zero to production, mentored teams, and maintained robust, maintainable codebases.
+
+---
+
+### 🛠️ Tech Stack
+
+| Area           | Tools & Frameworks |
+|----------------|--------------------|
+| **Frontend**   | React.js, Next.js, TypeScript, React Router v7 (Remix), TailwindCSS, React Query, Redux, MUI, ShadCN, Ant Design, Mantine |
+| **Backend**    | Node.js, Express, tRPC, Zod |
+| **Database**   | PostgreSQL, MySQL, MongoDB, Firebase, Redis |
+| **DevOps**     | Docker, Kubernetes, AWS, Vercel, Heroku, Jenkins, GitLab CI |
+| **Others**     | Stripe, Xero, Socket.IO, i18n, Ramda |
+
+---
+
+### 🚀 Projects & Contributions
+
+_(Coming soon...)_
+
+---
+
+### 📫 Let's Connect
+
+- Portfolio: [portfolio.functor.world](https://portfolio.functor.world)
+- LinkedIn: [linkedin.com/in/luan-tran-35a34b220](https://www.linkedin.com/in/luan-tran-35a34b220/)
+- Email: [functor.dev@gmail.com](mailto:functor.dev@gmail.com)
+
+---
+
+> "Code is not just what I do — it's how I think, learn, and create impact."
